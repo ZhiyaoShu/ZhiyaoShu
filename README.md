@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Zoey Shu, a machine learning enginner</p>
+<p align="left">I am Zoey Shu, a machine learning/Full-stack enginner</p>
 
 ###
 
