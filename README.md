@@ -101,6 +101,14 @@
 <br clear="both">
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=ZhiyaoShu&locale=en&mode=weekly&theme=swift&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ZhiyaoShu&theme=onedark&column=3&row=1&margin-w=1&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+<br clear="both">
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=ZhiyaoShu&locale=en&mode=weekly&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=ZhiyaoShu&theme=onedark&column=3&row=1&margin-w=1&margin-h=0&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
