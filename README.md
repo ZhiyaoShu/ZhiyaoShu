@@ -8,9 +8,9 @@
 
 <br clear="both">
 
-<div align="left" gap="8">
+<div align="left">
   <a href="https://www.linkedin.com/in/zoey-shu-4b4b0016b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="linkedin logo" style="margin-right: 10px;" />
   </a>
   <a href="https://twitter.com/ZoeYao1111" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" alt="twitter logo" />
