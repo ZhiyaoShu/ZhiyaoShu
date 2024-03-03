@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 Welcome to my Homepage!</h1>
+<h1 align="left">Hey 👋 I am Zoey Shu </h1>
 
 ###
 
-<p align="left">I am Zoey Shu, a machine learning/Full-stack enginner</p>
+<p align="left">I am a machine learning/Full-stack enginner</p>
 
 ###
 
