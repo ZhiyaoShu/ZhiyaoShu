@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning machine learning, and human-centered computing<br>🎲 Fun fact: learning architecture from building entities to virtual environments</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning machine learning, and human-centered computing<br>🎲 Fun fact: I learned architecture from constructing physical structures to designing immersive virtual environments.</p>
 
 ###
 
