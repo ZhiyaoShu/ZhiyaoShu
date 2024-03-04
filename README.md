@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning machine learning, and human-centered computing specialized in NLP, GCN and Hypergraph<br>🎲 Fun fact: I learned architecture from constructing physical structures to designing immersive virtual environments.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning machine learning, and human-centered computing specialized in NLP, GCN, DeepGNN. I am also learning the classification and prediction in social networks and SEO process<br>🎲 Fun fact: I learned architecture from constructing physical structures to designing immersive virtual environments.</p>
 
 ###
 
