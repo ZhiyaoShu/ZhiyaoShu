@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning machine learning, human-centered computing specialized in NLP and graph networks to optimize classification and prediction tasks in social networks. /n I am committed to investigate the cognitive dynamics of affectivity, behaviors and relationships among virtual and real environments<br>🎲 Fun fact: I constantly learn architecture from constructing physical structures to designing immersive virtual environments.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning machine learning, human-centered computing specialized in NLP and graph networks to optimize classification and prediction tasks in social networks. <br>
+  I am committed to investigate the cognitive dynamics of affectivity, behaviors and relationships among virtual and real environments<br>🎲 Fun fact: I constantly learn architecture from constructing physical structures to designing immersive virtual environments.</p>
 
 ###
 
