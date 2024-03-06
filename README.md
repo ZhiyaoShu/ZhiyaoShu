@@ -2,15 +2,11 @@
 
 ###
 
-<p align="left">I am a machine learning/Full-stack enginner</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
-
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning machine learning, human-centered computing specialized in NLP and graph networks to optimize classification and prediction tasks in social networks. <br>
+<p align="left">:star:I am a machine learning/Full-stack enginner</p>
+<p align="left">📚 I'm currently learning machine learning, human-centered computing specialized in NLP and graph networks to optimize classification and prediction tasks in social networks. <br>
  📚 I am committed to investigate the cognitive dynamics of affectivity, behaviors and relationships among virtual and real environments.<br>🎲 Fun fact: I constantly learn architecture from constructing physical structures to designing immersive virtual environments.</p>
 
 ###
