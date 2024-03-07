@@ -6,8 +6,11 @@
 
 ###
 <p align="left">:star:I am a machine learning/Full-stack enginner</p>
-<p align="left">📚 I'm currently learning machine learning, human-centered computing specialized in NLP and graph networks to optimize classification and prediction tasks in social networks. <br>
- 📚 I am committed to investigate the cognitive dynamics of affectivity, behaviors and relationships among virtual and real environments.<br>🎲 Fun fact: I constantly learn architecture from constructing physical structures to designing immersive virtual environments.</p>
+<p align="left">📚 I'm currently learning machine learning, human-centered computing specialized in NLP and graph networks to optimize classification and prediction tasks in social networks.</p>
+<p align="left">:computer: I am committed to investigate the cognitive dynamics of affectivity, behaviors and relationships among virtual and real environments.<br>🎲 Fun fact: I constantly learn architecture from constructing physical structures to designing immersive virtual environments.</p>
+<p align="left">:pretzel: Found more of my projects: <br>
+<p align="left"> - 
+</p>
 
 ###
 
