@@ -9,7 +9,7 @@
 <p align="left">📚 I'm currently learning machine learning, human-centered computing specialized in NLP and graph neural networks (GNN) to optimize classification and prediction tasks in social networks.</p>
 <p align="left">:computer: I am committed to investigate the cognitive dynamics of affectivity, behaviors and relationships among virtual and real environments.<br>🎲 Fun fact: I constantly learn architecture from constructing physical structures to designing immersive virtual environments.</p>
 <p>:floppy_disk: Find my resume here: <a href="https://zhiyaoshu.github.io/Portfolio_react/static/media/Zoey_Resume.b936012486f74b95e050.pdf">RESUME</a></p>
-<p align="left">:pretzel: Found more of my projects snippets: :point_right:<a href = "https://gist.github.com/ZhiyaoShu"> Here </a>
+<p align="left">:pretzel: Found more of my projects snippets :point_right:<a href = "https://gist.github.com/ZhiyaoShu"> Here </a>
 </p>
 
 ###
