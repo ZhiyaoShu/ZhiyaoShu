@@ -11,9 +11,9 @@
 <p>:floppy_disk: Find my resume here: <a href="https://zhiyaoshu.github.io/Portfolio_react/static/media/Zoey_Resume.b936012486f74b95e050.pdf">RESUME</a></p>
 <p align="left">:pretzel: Found more of my projects: <br>
 <ul align="left">
- <li><a href="https://github.com/ZhiyaoShu/Mchine-learning-models">Trained model list</a></li>
+ <li><a href="https://github.com/ZhiyaoShu/Mchine-learning-models">Trained models list</a></li>
  <li><a href="https://github.com/ZhiyaoShu/recommendation-system">Recommendation systems</a></li>
- <li><a href="https://github.com/ZhiyaoShu/Data-projects">Data project</a></li>
+ <li><a href="https://github.com/ZhiyaoShu/Data-projects">Data projects</a></li>
 </ul>
 </p>
 
