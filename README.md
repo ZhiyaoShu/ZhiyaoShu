@@ -6,7 +6,6 @@
 
 ###
 <p align="left">:star:I am a machine learning/Full-stack enginner</p>
-<p align="left">📚 I'm currently learning machine learning, human-centered computing specialized in NLP and graph neural networks (GNN) to optimize classification and prediction tasks in social networks.</p>
 <p align="left">:computer: I am committed to investigate the cognitive dynamics of affectivity, behaviors and relationships among virtual and real environments.<br>🎲 Fun fact: I constantly learn architecture from constructing physical to immersive virtual structures.</p>
 
 <p align="left">:pretzel: Found more of my snippets of my projects pinned below :point_down: or :point_right:<a href = "https://gist.github.com/ZhiyaoShu" target="_blank"> HERE </a>
@@ -70,15 +69,6 @@
 <br clear="both">
 
 <div align="center">
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ZhiyaoShu&locale=en&mode=weekly&theme=swift&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ZhiyaoShu&theme=onedark&column=3&row=1&margin-w=1&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
