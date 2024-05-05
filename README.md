@@ -8,8 +8,7 @@
 <p align="left">:star:I am a machine learning/Full-stack enginner</p>
 <p align="left">:computer: I am committed to investigate the cognitive dynamics of affectivity, behaviors and relationships among virtual and real environments.<br>🎲 Fun fact: I constantly learn architecture from constructing physical to immersive virtual structures.</p>
 
-<p align="left">:pretzel: Found more of my snippets of my projects pinned below :point_down: or :point_right:<a href = "https://gist.github.com/ZhiyaoShu" target="_blank"> HERE </a>
-</p>
+<p align="left">:pretzel: Found more of my snippets of my projects pinned below :point_down:</p>
 
 ###
 
