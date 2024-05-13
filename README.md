@@ -1,10 +1,6 @@
 <h1 align="left">Hey 👋 I am Zoey Shu </h1>
 
 ###
-
-<h2 align="left">About me</h2>
-
-###
 <p align="left">:star:I am a machine learning/Full-stack enginner</p>
 <p align="left">:computer: I am committed to investigate the cognitive dynamics of affectivity, behaviors and relationships among virtual and real environments.<br>🎲 Fun fact: I constantly learn architecture from constructing physical to immersive virtual structures.</p>
 
